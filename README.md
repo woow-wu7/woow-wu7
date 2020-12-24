@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=woow-wu7)](https://github.com/anuraghazra/github-readme-stats)
+![woow-wu7's github stats](https://github-readme-stats.vercel.app/api?username=woow-wu77&show_icons=true&theme=dracula)
