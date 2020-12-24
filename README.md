@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### woow_wu7 ♈♉♊♋♌♍♎♏♐♑♒♓⛎
+### woow_wu7 ♈♉♊♋♍♎♏♐♑♒
 <!--
 **woow-wu7/woow-wu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
