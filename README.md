@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-### woow_wu7 ♈♉♊♋♍♎♏♐♑♒🔝
+### woow_wu7 ♈♉♊♋♍♎♏♐♑♒♓⛎
