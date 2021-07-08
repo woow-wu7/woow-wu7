@@ -2,7 +2,7 @@
 
 [![掘金](https://img.shields.io/badge/%E6%8E%98%E9%87%91-%40woow__wu7-brightgreen)](https://juejin.cn/user/1063982989065799/posts)
 [![简书](https://img.shields.io/badge/%E7%AE%80%E4%B9%A6-%40woow__wu7-orange)](https://www.jianshu.com/u/70c8a3b8bb44)
-[![语雀](https://img.shields.io/badge/%E8%AF%AD%E9%9B%80-%40woow__wu7-blueviolet)]()https://www.yuque.com/woowwu
+[![语雀](https://img.shields.io/badge/%E8%AF%AD%E9%9B%80-%40woow__wu7-blueviolet)](https://www.yuque.com/woowwu)
 
 ### woow_wu7 ♈♉♊♋♍♎♏♐♑♒
 
