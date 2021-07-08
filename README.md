@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![掘金](https://img.shields.io/badge/%E6%8E%98%E9%87%91-%40woow__wu7-brightgreen)](https://juejin.cn/user/1063982989065799/posts)
+
 ### woow_wu7 ♈♉♊♋♍♎♏♐♑♒
 
 <!--
