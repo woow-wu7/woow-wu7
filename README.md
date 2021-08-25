@@ -1,4 +1,6 @@
-### Hi there 👋 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
+### <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
+
+### Hi there 👋 
 
 [![掘金](https://img.shields.io/badge/%E6%8E%98%E9%87%91-%40woow__wu7-brightgreen)](https://juejin.cn/user/1063982989065799/posts)
 [![简书](https://img.shields.io/badge/%E7%AE%80%E4%B9%A6-%40woow__wu7-orange)](https://www.jianshu.com/u/70c8a3b8bb44)
