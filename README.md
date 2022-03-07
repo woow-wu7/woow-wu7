@@ -5,6 +5,10 @@
 [![语雀](https://img.shields.io/badge/%E8%AF%AD%E9%9B%80-%40woow__wu7-blueviolet)](https://www.yuque.com/woowwu)
 
 
+<div align="center">
+  <h1>Views</h1>
+  <img src="https://count.getloli.com/get/@woow-wu7?theme=rule34" alt="bariscodefx" />
+</div>
 
 <!--
 **woow-wu7/woow-wu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
