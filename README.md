@@ -5,7 +5,7 @@
 [![语雀](https://img.shields.io/badge/%E8%AF%AD%E9%9B%80-%40woow__wu7-blueviolet)](https://www.yuque.com/woowwu)
 
 
-<div align="center">
+<div align="left">
   <h1>Views</h1>
   <img src="https://count.getloli.com/get/@woow-wu7?theme=rule34" alt="bariscodefx" />
 </div>
