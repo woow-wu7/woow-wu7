@@ -6,7 +6,7 @@
 
 
 <div align="left">
-  <h3>Views <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" /></h1>
+  <h3>Views <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="16" /></h1>
   <img src="https://count.getloli.com/get/@woow-wu7?theme=rule34" alt="bariscodefx" />
 </div>
 
